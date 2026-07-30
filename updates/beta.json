@@ -1,0 +1,18 @@
+{
+    "schema_version": 1,
+    "release": {
+        "channel": "beta",
+        "version": "0.1.1",
+        "build": 2,
+        "download_url": "https://github.com/WildNerdin/WildClip/releases/download/v0.1.1-beta/WildClip_Update_Beta_0.1.1_Build_002.zip",
+        "sha256": "3e35e7228f96a6e668472deb342e02564ba8349c051e9699434eefdd49f79713",
+        "size": 296723781,
+        "mandatory": false,
+        "notes": [
+            "Primera actualización distribuida mediante GitHub Releases.",
+            "Conexión permanente con los canales Estable y Beta.",
+            "Detección corregida de Inno Setup 6.",
+            "Preparación automática de paquetes y hashes para publicar versiones."
+        ]
+    }
+}
