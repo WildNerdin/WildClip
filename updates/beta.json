@@ -2,17 +2,17 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.1.2",
-                    "build":  3,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.2-beta/WildClip_Update_Beta_0.1.2_Build_003.zip",
-                    "sha256":  "ca5e2fca354e2f985c0490e82c1fd81281327c00651f395fe65bec5bb99d5f66",
-                    "size":  296723698,
+                    "version":  "0.1.3",
+                    "build":  4,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.3-beta/WildClip_Update_Beta_0.1.3_Build_004.zip",
+                    "sha256":  "cc8b3230e9f25e08c6b9b35859156434a4e049f061eb7ee39a41e90dfdb9cb1b",
+                    "size":  296723512,
                     "mandatory":  false,
                     "notes":  [
-                                  "Prueba oficial del actualizador desde GitHub Releases.",
-                                  "Mejoras en la detecciÃ³n de versiones y builds.",
-                                  "Manejo mÃ¡s claro de canales sin manifiesto publicado.",
-                                  "Notas de versiÃ³n mostradas despuÃ©s de actualizar."
+                                  "Actualizador ejecutado desde una carpeta temporal para evitar archivos bloqueados.",
+                                  "Espera real al cierre completo de WildClip antes de reemplazar archivos.",
+                                  "Reintentos automÃ¡ticos cuando Windows mantiene un archivo ocupado.",
+                                  "RestauraciÃ³n segura si la instalaciÃ³n no puede completarse."
                               ]
                 }
 }
