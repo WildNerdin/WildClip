@@ -1,18 +1,18 @@
 {
-    "schema_version": 1,
-    "release": {
-        "channel": "beta",
-        "version": "0.1.1",
-        "build": 2,
-        "download_url": "https://github.com/WildNerdin/WildClip/releases/download/v0.1.1-beta/WildClip_Update_Beta_0.1.1_Build_002.zip",
-        "sha256": "3e35e7228f96a6e668472deb342e02564ba8349c051e9699434eefdd49f79713",
-        "size": 296723781,
-        "mandatory": false,
-        "notes": [
-            "Primera actualización distribuida mediante GitHub Releases.",
-            "Conexión permanente con los canales Estable y Beta.",
-            "Detección corregida de Inno Setup 6.",
-            "Preparación automática de paquetes y hashes para publicar versiones."
-        ]
-    }
+    "schema_version":  1,
+    "release":  {
+                    "channel":  "beta",
+                    "version":  "0.1.2",
+                    "build":  3,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.2-beta/WildClip_Update_Beta_0.1.2_Build_003.zip",
+                    "sha256":  "ca5e2fca354e2f985c0490e82c1fd81281327c00651f395fe65bec5bb99d5f66",
+                    "size":  296723698,
+                    "mandatory":  false,
+                    "notes":  [
+                                  "Prueba oficial del actualizador desde GitHub Releases.",
+                                  "Mejoras en la detecciÃ³n de versiones y builds.",
+                                  "Manejo mÃ¡s claro de canales sin manifiesto publicado.",
+                                  "Notas de versiÃ³n mostradas despuÃ©s de actualizar."
+                              ]
+                }
 }
