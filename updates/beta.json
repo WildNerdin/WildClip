@@ -2,17 +2,20 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.1.5",
-                    "build":  6,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.5-beta/WildClip_Update_Beta_0.1.5_Build_006.zip",
-                    "sha256":  "e315dd669af7b0a97b55383e95a5d9d1cae05958317f629dd65b1b8e10e3487e",
-                    "size":  299783421,
+                    "version":  "0.2.0",
+                    "build":  13,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.0-beta/WildClip_Update_Beta_0.2.0_Build_013.zip",
+                    "sha256":  "bf6614ab2a452f5ce4d3351d56d69899e2cfc90fdcdea5814a124b59e734adea",
+                    "size":  299835923,
                     "mandatory":  false,
                     "notes":  [
-                                  "El actualizador ahora muestra una ventana visible durante toda la instalaciÃ³n.",
-                                  "Se aÃ±adieron estados de cierre, respaldo, instalaciÃ³n y reinicio.",
-                                  "Las notas y manifiestos se generan correctamente en UTF-8.",
-                                  "El instalador recibiÃ³ una presentaciÃ³n mÃ¡s clara y moderna."
+                                  "Fase 2 completada: nuevo flujo integrado de edición y exportación.",
+                                  "Nuevo: Exportación profesional con resolución, formato, FPS, calidad y códec configurables.",
+                                  "Nuevo: Modo vertical con fondo borroso y zoom del gameplay inspirado en DaVinci Resolve.",
+                                  "Nuevo: Vista previa de exportación para ajustar el resultado antes de renderizar.",
+                                  "Mejora: Timeline visual, recorte preciso y navegación por módulos.",
+                                  "Corregido: Estabilidad de la interfaz durante las pruebas internas.",
+                                  "Próximo: Fase 3, personalización del creador y biblioteca de recursos."
                               ]
                 }
 }
