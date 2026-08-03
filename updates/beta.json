@@ -2,17 +2,17 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.1.4",
-                    "build":  5,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.4-beta/WildClip_Update_Beta_0.1.4_Build_005.zip",
-                    "sha256":  "b7add7704d18d12f4d237fd54d72abdcc28df59aacfcc4f6c2212c87249b88b6",
-                    "size":  296727931,
+                    "version":  "0.1.5",
+                    "build":  6,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.1.5-beta/WildClip_Update_Beta_0.1.5_Build_006.zip",
+                    "sha256":  "e315dd669af7b0a97b55383e95a5d9d1cae05958317f629dd65b1b8e10e3487e",
+                    "size":  299783421,
                     "mandatory":  false,
                     "notes":  [
-                                  "ActualizaciÃ³n puente que evita reemplazar WildClipUpdater.exe mientras estÃ¡ en uso.",
-                                  "El nuevo actualizador se instala de forma segura al siguiente arranque.",
-                                  "Actualizador ejecutado desde una carpeta temporal para futuras versiones.",
-                                  "Reintentos automÃ¡ticos y recuperaciÃ³n segura ante archivos bloqueados."
+                                  "El actualizador ahora muestra una ventana visible durante toda la instalaciÃ³n.",
+                                  "Se aÃ±adieron estados de cierre, respaldo, instalaciÃ³n y reinicio.",
+                                  "Las notas y manifiestos se generan correctamente en UTF-8.",
+                                  "El instalador recibiÃ³ una presentaciÃ³n mÃ¡s clara y moderna."
                               ]
                 }
 }
