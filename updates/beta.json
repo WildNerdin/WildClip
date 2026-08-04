@@ -2,11 +2,11 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.2.3",
-                    "build":  16,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.3-beta/WildClip_Update_Beta_0.2.3_Build_016.zip",
-                    "sha256":  "c4bc88be92750f0ffcf0a25abccf4955bf1b37f87ba54b479e7d341808b89c85",
-                    "size":  299956475,
+                    "version":  "0.2.4",
+                    "build":  17,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.4-beta/WildClip_Update_Beta_0.2.4_Build_017.zip",
+                    "sha256":  "9cf47027ddce216628e420eea80e3afa436fd48c23573988819a587b24dc24fb",
+                    "size":  301014094,
                     "mandatory":  false,
                     "notes":  [
                                   "Emergency update: fixed the repeated update prompt.",
