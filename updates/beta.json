@@ -2,20 +2,17 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.2.0",
-                    "build":  13,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.0-beta/WildClip_Update_Beta_0.2.0_Build_013.zip",
-                    "sha256":  "bf6614ab2a452f5ce4d3351d56d69899e2cfc90fdcdea5814a124b59e734adea",
-                    "size":  299835923,
+                    "version":  "0.2.1",
+                    "build":  14,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.1-beta/WildClip_Update_Beta_0.2.1_Build_014.zip",
+                    "sha256":  "1b713ae6dc0a1dfd4217d8250a48fab8fffc477c51c26afb5fe3f5a1bcfd8077",
+                    "size":  299953755,
                     "mandatory":  false,
                     "notes":  [
-                                  "Fase 2 completada: nuevo flujo integrado de edición y exportación.",
-                                  "Nuevo: Exportación profesional con resolución, formato, FPS, calidad y códec configurables.",
-                                  "Nuevo: Modo vertical con fondo borroso y zoom del gameplay inspirado en DaVinci Resolve.",
-                                  "Nuevo: Vista previa de exportación para ajustar el resultado antes de renderizar.",
-                                  "Mejora: Timeline visual, recorte preciso y navegación por módulos.",
-                                  "Corregido: Estabilidad de la interfaz durante las pruebas internas.",
-                                  "Próximo: Fase 3, personalización del creador y biblioteca de recursos."
+                                  "Emergency update: fixed a critical packaging issue.",
+                                  "Fixed the missing pipeline_manager module in the installed application.",
+                                  "Improved PyInstaller packaging for dynamically imported WildClip modules.",
+                                  "This update does not add new features or interface changes."
                               ]
                 }
 }
