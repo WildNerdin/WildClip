@@ -2,11 +2,11 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.2.1",
-                    "build":  14,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.1-beta/WildClip_Update_Beta_0.2.1_Build_014.zip",
-                    "sha256":  "1b713ae6dc0a1dfd4217d8250a48fab8fffc477c51c26afb5fe3f5a1bcfd8077",
-                    "size":  299953755,
+                    "version":  "0.2.2",
+                    "build":  15,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.2-beta/WildClip_Update_Beta_0.2.2_Build_015.zip",
+                    "sha256":  "0efdd36d68a6a5d0102fcb537a314571504136dd704a46e97cd375eda05ed859",
+                    "size":  299954385,
                     "mandatory":  false,
                     "notes":  [
                                   "Emergency update: fixed a critical packaging issue.",
