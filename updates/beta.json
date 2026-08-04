@@ -2,16 +2,16 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.2.2",
-                    "build":  15,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.2-beta/WildClip_Update_Beta_0.2.2_Build_015.zip",
-                    "sha256":  "0efdd36d68a6a5d0102fcb537a314571504136dd704a46e97cd375eda05ed859",
-                    "size":  299954385,
+                    "version":  "0.2.3",
+                    "build":  16,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.3-beta/WildClip_Update_Beta_0.2.3_Build_016.zip",
+                    "sha256":  "c4bc88be92750f0ffcf0a25abccf4955bf1b37f87ba54b479e7d341808b89c85",
+                    "size":  299956475,
                     "mandatory":  false,
                     "notes":  [
-                                  "Emergency update: fixed a critical packaging issue.",
-                                  "Fixed the missing pipeline_manager module in the installed application.",
-                                  "Improved PyInstaller packaging for dynamically imported WildClip modules.",
+                                  "Emergency update: fixed the repeated update prompt.",
+                                  "WildClip now reads the installed version directly from version.json.",
+                                  "Version, build and display metadata are now synchronized automatically.",
                                   "This update does not add new features or interface changes."
                               ]
                 }
