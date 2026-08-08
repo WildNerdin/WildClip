@@ -2,17 +2,15 @@
     "schema_version":  1,
     "release":  {
                     "channel":  "beta",
-                    "version":  "0.2.4",
-                    "build":  17,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.2.4-beta/WildClip_Update_Beta_0.2.4_Build_017.zip",
-                    "sha256":  "9cf47027ddce216628e420eea80e3afa436fd48c23573988819a587b24dc24fb",
-                    "size":  301014094,
+                    "version":  "0.3.0",
+                    "build":  14,
+                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.3.0-beta/WildClip_Update_Beta_0.3.0_Build_014.zip",
+                    "sha256":  "b238bf2d3c51db38277adfa8e98de86c1394187e988298927d9db662e8913b0a",
+                    "size":  348141583,
                     "mandatory":  false,
                     "notes":  [
-                                  "Emergency update: fixed the repeated update prompt.",
-                                  "WildClip now reads the installed version directly from version.json.",
-                                  "Version, build and display metadata are now synchronized automatically.",
-                                  "This update does not add new features or interface changes."
+                                  "A new WildClip development phase has been completed.",
+                                  "New features, workflow improvements and stability fixes are included."
                               ]
                 }
 }
