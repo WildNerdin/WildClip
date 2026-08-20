@@ -1,16 +1,26 @@
 {
-    "schema_version":  1,
-    "release":  {
-                    "channel":  "beta",
-                    "version":  "0.3.0",
-                    "build":  14,
-                    "download_url":  "https://github.com/WildNerdin/WildClip/releases/download/v0.3.0-beta/WildClip_Update_Beta_0.3.0_Build_014.zip",
-                    "sha256":  "b238bf2d3c51db38277adfa8e98de86c1394187e988298927d9db662e8913b0a",
-                    "size":  348141583,
-                    "mandatory":  false,
-                    "notes":  [
-                                  "A new WildClip development phase has been completed.",
-                                  "New features, workflow improvements and stability fixes are included."
-                              ]
-                }
+  "schema_version": 2,
+  "release": {
+    "channel": "beta",
+    "version": "0.4.0",
+    "build": 15,
+    "download_url": "https://github.com/WildNerdin/WildClip/releases/download/v0.4.0-beta/WildClip_Update_Beta_0.4.0_Build_015.zip",
+    "sha256": "a20c002ffc52e168eb20a5ac1cc49cb965f8b6c9176f753cee962109c8aaf783",
+    "size": 344607841,
+    "mandatory": false,
+    "notes": [
+      "New Editor V2 with a multitrack timeline.",
+      "Cut and split clips using the timeline playhead.",
+      "Add videos/memes, images, stickers and extra audio tracks.",
+      "Independent V/A tracks with volume, mute and fades.",
+      "Undo/Redo by complete operations, segment deletion and magnetic snapping.",
+      "Multitrack preview/export with horizontal and vertical formats.",
+      "Stability and project-persistence improvements."
+    ]
+  },
+  "signature": {
+    "algorithm": "ed25519",
+    "key_id": "wildclip-update-1",
+    "value": "318qR93XovXlUBEi5YYbMg2EcOOoCWEzmm/lKRrNFRBpDUWDWBUncC5Krs4wp5xMRCaqWCFEJGaeQJDjcWfBAA=="
+  }
 }
