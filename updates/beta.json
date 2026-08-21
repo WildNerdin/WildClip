@@ -2,11 +2,11 @@
   "schema_version": 2,
   "release": {
     "channel": "beta",
-    "version": "0.4.1",
-    "build": 17,
-    "download_url": "https://github.com/WildNerdin/WildClip/releases/download/v0.4.1-beta/WildClip_Update_Beta_0.4.1_Build_017.zip",
-    "sha256": "58a2b758f3a5869ece2d93c575975cddeb8aa666deafa25fe6d2f5da1d218430",
-    "size": 344613321,
+    "version": "0.4.2",
+    "build": 18,
+    "download_url": "https://github.com/WildNerdin/WildClip/releases/download/v0.4.2-beta/WildClip_Update_Beta_0.4.2_Build_018.zip",
+    "sha256": "e3e4c7f675858d71e1fb593155ce39ecf70971c8a80f76f1e0f1e5c9c7079c5b",
+    "size": 344882994,
     "mandatory": false,
     "notes": [
       "Emergency update: fixed the repeated update prompt.",
@@ -18,6 +18,6 @@
   "signature": {
     "algorithm": "ed25519",
     "key_id": "wildclip-update-1",
-    "value": "9vbNuB+jb+kAn1dxmmuFeZgwmLdD3KXLMr/NuzmV23bwdRIXpMqQprRtBfciMQvqMoHEE8x5DubEA/qBqdKGDA=="
+    "value": "R9fBHdi94ahv9V7OOJwU1Kk1y92At3gjUGfzcDTE7w0y2yl7X4KQzwdiaPI8j8MFsKeZnAIeNtbPQAJnARszCw=="
   }
 }
